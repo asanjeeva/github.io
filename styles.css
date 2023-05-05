@@ -1,0 +1,91 @@
+/* 
+Here are the styles used in About Archie and ZoroMedia website. 
+*/
+
+img {
+    width: 200px;
+    margin: 10px;
+    border: none;
+    padding: 5px;
+}
+
+* {
+    color: #fff;
+}
+
+body {
+    background-color: #070707;
+    font-family: sans-serif;
+}
+
+.container {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+    color: #fffafa;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+  
+  table td {
+    height: 50px;
+    width: 25%;
+    border: none;
+    text-align: left;
+    vertical-align: middle;
+  }
+
+  tr.divider {
+    border-bottom: 1px solid rgb(125, 194, 132);
+  }
+
+a {
+    color: rgb(125, 194, 132);
+    text-decoration: none;
+}
+
+a:hover {
+    color: #750c0c;
+}
+
+.bg-dark {
+    background-color: #313767;
+}
+
+.bg-light {
+    background-color: #5e0808;
+}
+
+input[type="text"] {
+    color: black;
+}
+
+textarea {
+    color: black;
+}
+
+
+input[type="submit"] {
+    background-color: rgb(125, 194, 132);
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    border-radius: 10px;
+  }
