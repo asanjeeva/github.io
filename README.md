@@ -1,5 +1,5 @@
 # github.io
-Infotech 1040 Final Project - Archie Sanjeeva
+Infotech 1000 Final Project - Archie Sanjeeva
 
 Here is the checklist of items included in the website as per the project
 •	Paragraphs - Included in body.
